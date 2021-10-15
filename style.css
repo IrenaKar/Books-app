@@ -1,0 +1,19 @@
+.progress {
+    width: 100%;
+    background-color: gray;
+    position: relative
+  }
+  
+  .progress-bar {
+    height: 15px;
+    position: absolute;
+    color: white;
+  }
+  
+  .table {
+    border-bottom: 1px solid #dddddd;
+    border-left: 1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+  }
+  
+  
